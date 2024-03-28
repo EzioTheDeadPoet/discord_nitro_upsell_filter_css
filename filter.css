@@ -1,0 +1,13 @@
+/*Hide Nitro Upsell*/
+.nitroTopDividerContainer_b829ac, 
+.inactiveNitroHeader_db65aa, 
+.categorySectionNitroLocked__5b287, 
+.premiumEmoji__2dbd7,
+.premiumEmoji_d4ce86,
+.premiumHeader_f73c14 {
+  display: none;
+}
+
+button[aria-label="Send a gift"]{
+  display: none;
+}
