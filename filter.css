@@ -9,5 +9,5 @@
 }
 
 button[aria-label="Send a gift"]{
-  display: none;
+  display: none; !important
 }
