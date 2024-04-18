@@ -11,3 +11,11 @@
 button[aria-label="Send a gift"]{
   display: none; !important
 }
+
+li div a[href="/store"] {
+  display: none;
+}
+
+li div a[href="/shop"] {
+  display: none;
+}
